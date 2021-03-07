@@ -1,16 +1,29 @@
-### Hi there 👋
+## 👋 &nbsp;Hey there! I'm Jasper
 
-<!--
-**j-dogcoder/j-dogcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 &nbsp;I like working on projects with topics such as Ai, Machine learning, and App Development.\
+🎓 &nbsp;I'm currently a Middle School Student in rural Vermont.\
+🌱 &nbsp;I'd love to get deeper into Machine Learning and Ai. If you have any suggestions, Please open an issue on this repo.\
+✍️ &nbsp;In my free time, I enjoy hiking, camping, playing games with my family, and Snuggling with my cats.\
+💬 &nbsp;Feel free to reach out to me for Video, Photo, and Audio Editing, Drone Photography, and limited coding projects.\
+✉️ &nbsp;You can contact me by opening an issue in this repo! I'll try to respond as soon as I can.\
 
-Here are some ideas to get you started:
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+I also know swift but didn’t find a badge. If anyone has one, pls open a PR.
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/j-dogcoder">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=j-dogcoder&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+
+</a>
+</p>
