@@ -19,6 +19,12 @@
 
 I also know swift but didn’t find a badge. If anyone has one, pls open a PR.
 
+
+## 🦄 &nbsp; Project Pegasus
+I am a core developer and one of the 2 main developers behind the Pegasus App and the Pegasus Project. You can find more info at the link below
+[gitbook.io/project-pegasus/](https://j-dogcoder.gitbook.io/project-pegasus/)
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
