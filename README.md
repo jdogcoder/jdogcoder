@@ -25,7 +25,7 @@ I am a core developer and one of the 2 main developers behind the Pegasus App an
 [gitbook.io/project-pegasus/](https://j-dogcoder.gitbook.io/project-pegasus/)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/j-dogcoder">
@@ -33,3 +33,5 @@ I am a core developer and one of the 2 main developers behind the Pegasus App an
 
 </a>
 </p>
+
+        
