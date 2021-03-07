@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Jasper
+## 👋 &nbsp;Hey there! I'm Jasper.
 
 💡 &nbsp;I like working on projects with topics such as Ai, Machine learning, and App Development.\
 🎓 &nbsp;I'm currently a Middle School Student in rural Vermont.\
