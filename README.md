@@ -1,7 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Jasper.
 
 💡 &nbsp;I like working on projects with topics such as Ai, Machine learning, and App Development.\
-🎓 &nbsp;I'm currently a Middle School Student in rural Vermont.\
 🌱 &nbsp;I'd love to get deeper into Machine Learning and Ai. If you have any suggestions, Please open an issue on this repo.\
 ✍️ &nbsp;In my free time, I enjoy hiking, camping, playing games with my family, and Snuggling with my cats.\
 💬 &nbsp;Feel free to reach out to me for Video, Photo, and Audio Editing, Drone Photography, and limited coding projects.\
