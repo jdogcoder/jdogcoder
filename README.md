@@ -17,19 +17,15 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+# Projects I am working on:
 
-## 🦄 &nbsp; Project Pegasus
+## 🦄 &nbsp; Project Pegasus:
 I am a core developer and one of the 2 main developers behind the Pegasus App and the Pegasus Project. You can find more info at the link below
 [gitbook.io/project-pegasus/](https://j-dogcoder.gitbook.io/project-pegasus/)
 
+## 🌋 &nbsp; Heptagram:
+I am working on a multipurpose open souce discord bot. You can find its repo and help contribute at [https://github.com/Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
 
-## ⚙️ &nbsp;GitHub Analytics
+# 🔆 &nbsp; Socials
 
-<p align="left">
-<a href="https://github.com/j-dogcoder">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=j-dogcoder&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-
-</a>
-</p>
-
-        
+<a href="https://stackoverflow.com/users/15201146/j-dogcoder?theme=dark"><img src="https://stackoverflow.com/users/flair/15201146.png" width="208" height="58" alt="profile for J-dogcoder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for J-dogcoder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
