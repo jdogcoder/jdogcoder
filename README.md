@@ -28,4 +28,4 @@ I am working on a multipurpose open souce discord bot. You can find its repo and
 
 # 🔆 &nbsp; Socials
 
-<a href="https://stackoverflow.com/users/15201146/j-dogcoder?theme=dark"><img src="https://stackoverflow.com/users/flair/15201146.png" width="208" height="58" alt="profile for J-dogcoder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for J-dogcoder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<img src="https://stackoverflow.com/users/flair/15201146.png?theme=dark" width="208" height="58" alt="profile for J-dogcoder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for J-dogcoder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
