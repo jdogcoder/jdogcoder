@@ -1,4 +1,8 @@
 ## 👋 &nbsp;Hey there! I'm Jasper.
+![GitHub User's stars](https://img.shields.io/github/stars/j-dogcoder?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/j-dogcoder?style=for-the-badge)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/j-dogcoder?style=for-the-badge)
+
 
 💡 &nbsp;I like working on projects with topics such as Ai, Machine learning, and App Development.\
 🌱 &nbsp;I'd love to get deeper into Machine Learning and Ai. If you have any suggestions, Please open an issue on this repo.\
@@ -23,7 +27,7 @@
 I am a core developer and one of the 2 main developers behind the Pegasus App and the Pegasus Project. You can find more info at the link below
 [gitbook.io/project-pegasus/](https://j-dogcoder.gitbook.io/project-pegasus/)
 
-## 🌋 &nbsp; Heptagram:
+##  &nbsp; Heptagram Bot:
 I am working on a multipurpose open souce discord bot. You can find its repo and help contribute at [https://github.com/Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
 
 # 🔆 &nbsp; Socials
