@@ -7,7 +7,7 @@
 ![Commits](https://badges.pufler.dev/commits/monthly/j-dogcoder?style=for-the-badge)
 ![Profile Visits](https://badges.pufler.dev/visits/j-dogcoder/j-dogcoder?style=for-the-badge)
 
-</p>!
+</p>
 
 💡 &nbsp;I like working on projects with topics such as Ai, Machine learning, and App Development.\
 🌱 &nbsp;I'd love to get deeper into Machine Learning and Ai. If you have any suggestions, Please open an issue on this repo.\
@@ -40,5 +40,7 @@
   <a href="https://dribbble.com/Jdogcoder" />
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+  <a href="https://dev.to/jdogcoder">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="j-dogcoder's DEV Community Profile" height="80" width="30">
+</a>
 </p>
