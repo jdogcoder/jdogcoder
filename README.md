@@ -16,10 +16,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)&nbsp;<br>
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
 
 # Projects I am working on:
 
