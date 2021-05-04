@@ -41,6 +41,6 @@
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/jdogcoder">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="j-dogcoder's DEV Community Profile" height="80" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="j-dogcoder's DEV Community Profile" height="30" width="30">
 </a>
 </p>
