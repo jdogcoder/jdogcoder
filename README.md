@@ -22,9 +22,9 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=#303030)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=#303030)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=#303030)&nbsp;
 
 # Projects I am working on:
 [![Heptagram](https://github-readme-stats.vercel.app/api/pin/?username=Heptagram-Bot&repo=Heptagram&cache_seconds=86400&theme=merko)](https://github.com/heptagram-bot/heptagram)
