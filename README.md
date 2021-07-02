@@ -24,10 +24,14 @@
       </p>
       <p align="center">
 ✉️ &nbsp;You can contact me by opening an issue in this repo! I'll try to respond as soon as I can.
+  </p>
+      <p align="center">
+  📱 &nbsp;Find out more about me at polywork.com/jdogcoder
+      </p>
+      <p align="center">
 </p>
 
 <h2 align="center">🛠 &nbsp;Tech Stack:</h2>
-
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python">
