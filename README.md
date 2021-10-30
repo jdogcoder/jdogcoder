@@ -1,5 +1,4 @@
-<h1 align="center">👋 &nbsp;Hey there! I'm Jasper.</h1>
-<h6 align="center">🤫 &nbsp;Pssst. Looking for my old repos? My archives can be found on my archive account [@jdogcoderarchives](https://github.com/jdogcoderarchives).</h1>
+<h1 align="center">👋 &nbsp;Hey there! I'm J-dogcoder.</h1>
 <p align="center"> 
 <img src="https://img.shields.io/github/stars/j-dogcoder?style=for-the-badge">
 <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge">
@@ -24,17 +23,11 @@
       </p>
       <p align="center">
 ✉️ &nbsp;You can contact me by opening an issue in this repo! I'll try to respond as soon as I can.
-  </p>
-      <p align="center">
-  📱 &nbsp;Find out more about me at polywork.com/jdogcoder
-      </p>
-      <p align="center">
 </p>
 
 <h2 align="center">🛠 &nbsp;Tech Stack:</h2>
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift">
 <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github">
@@ -50,6 +43,8 @@
 <h2 align="center">Projects I am working on:</h2>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heptagram-Bot&repo=Heptagram&cache_seconds=86400&theme=merko)](https://github.com/heptagram-bot/heptagram">
+  <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyaneus-Co&repo=Pegasus&cache_seconds=86400&theme=merko)](https://github.com/Cyaneus-Co/Pegasus">
 
 
 <h2 align="center">My Socials:</h2>
