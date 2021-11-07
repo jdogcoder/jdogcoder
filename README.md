@@ -62,3 +62,8 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="j-dogcoder's DEV Community Profile" height="30" width="30">
 </a>
 </p>
+<p align='center'>
+    <a href="https://github.com/j-dogcoder" />
+    <img src="https://repobeats.axiom.co/api/embed/2ddf01cb23e328e406c78b5f0caef33097455073.svg " />        
+  </a>&nbsp;&nbsp;
+</p>
