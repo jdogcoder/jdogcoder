@@ -64,6 +64,6 @@
 </p>
 <p align='center'>
     <a href="https://github.com/j-dogcoder" />
-    <img src="https://repobeats.axiom.co/api/embed/2ddf01cb23e328e406c78b5f0caef33097455073.svg " />        
+    <img src="https://repobeats.axiom.co/api/embed/2ddf01cb23e328e406c78b5f0caef33097455073.svg" />        
   </a>&nbsp;&nbsp;
 </p>
