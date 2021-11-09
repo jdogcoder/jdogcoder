@@ -39,6 +39,9 @@
 <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean">
 </p>
 
+# 📖 Latest Blog posts
+<!-- DEV.to:START -->
+<!-- DEV.to:END -->
 
 <h2 align="center">Projects I am working on:</h2>
 <p align="center"> 
