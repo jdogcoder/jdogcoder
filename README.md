@@ -10,6 +10,17 @@
 
 ✉️ You can contact me by opening an issue in this repo! I'll try to respond as soon as I can.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+# 📖 Latest Blog posts
+<!-- DEV.to:START -->
+- [Introducing... Project Universe!](https://dev.to/jdogcoder/introducing-project-universe-4cd)
+- [Cool Open Source Discord Bot list](https://dev.to/jdogcoder/cool-open-source-discord-bot-list-2cih)
+- [Open Source Discord Bot](https://dev.to/jdogcoder/open-source-discord-bot-2cal)
+<!-- DEV.to:END -->
+
 
 <h2 align="center">🛠 &nbsp;Tech Stack:</h2>
 
@@ -24,13 +35,6 @@
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb">
 <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean">
 </p>
-
-# 📖 Latest Blog posts
-<!-- DEV.to:START -->
-- [Introducing... Project Universe!](https://dev.to/jdogcoder/introducing-project-universe-4cd)
-- [Cool Open Source Discord Bot list](https://dev.to/jdogcoder/cool-open-source-discord-bot-list-2cih)
-- [Open Source Discord Bot](https://dev.to/jdogcoder/open-source-discord-bot-2cal)
-<!-- DEV.to:END -->
 
 # Projects I am working on:
 [![Cyaneus](https://github-readme-stats.vercel.app/api/pin/?username=Cyaneus-Co&repo=Pegasus)](https://github.com/Cyaneus-Co)
