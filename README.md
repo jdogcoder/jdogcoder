@@ -1,29 +1,15 @@
-<h1 align="center">👋 &nbsp;Hey there! I'm J-dogcoder.</h1>
-<p align="center"> 
-<img src="https://img.shields.io/github/stars/j-dogcoder?style=for-the-badge">
-<img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge">
-<img src="https://img.shields.io/github/followers/j-dogcoder?style=for-the-badge">
-<img src="https://img.shields.io/github/sponsors/j-dogcoder?style=for-the-badge">
-<img src="https://badges.pufler.dev/repos/j-dogcoder?style=for-the-badge">
-<img src="https://badges.pufler.dev/commits/monthly/j-dogcoder?style=for-the-badge">
+# 👋 Hey there! I'm J-dogcoder
 
-</p>
+💡 I like working on projects with topics such as Ai, Machine learning, and App Development.
 
-<p align="center">
-💡 &nbsp;I like working on projects with topics such as Ai, Machine learning, and App Development.
-  </p>
-  <p align="center">
-🌱 &nbsp;I'd love to get deeper into Machine Learning and Ai. If you have any suggestions, Please open an issue on this repo.
-  </p>
-  <p align="center">
-✍️ &nbsp;In my free time, I enjoy hiking, camping, playing games with my family, and Snuggling with my cats.
-    </p>
-    <p align="center">
-💬 &nbsp;Feel free to reach out to me for Video, Photo, and Audio Editing, Drone Photography, and limited coding projects.
-      </p>
-      <p align="center">
-✉️ &nbsp;You can contact me by opening an issue in this repo! I'll try to respond as soon as I can.
-</p>
+🌱 I'd love to get deeper into Machine Learning and Ai. If you have any suggestions, Please open an issue on this repo.
+ 
+✍️ In my free time, I enjoy hiking, camping, playing games with my family, and Snuggling with my cats.
+
+💬 Feel free to reach out to me for Video, Photo, and Audio Editing, Drone Photography, and limited coding projects.
+
+✉️ You can contact me by opening an issue in this repo! I'll try to respond as soon as I can.
+
 
 <h2 align="center">🛠 &nbsp;Tech Stack:</h2>
 
@@ -46,30 +32,11 @@
 - [Open Source Discord Bot](https://dev.to/jdogcoder/open-source-discord-bot-2cal)
 <!-- DEV.to:END -->
 
-<h2 align="center">Projects I am working on:</h2>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heptagram-Bot&repo=Heptagram&cache_seconds=86400&theme=merko)](https://github.com/heptagram-bot/heptagram">
-  <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyaneus-Co&repo=Pegasus&cache_seconds=86400&theme=merko)](https://github.com/Cyaneus-Co/Pegasus">
+# Projects I am working on:
+[![Cyaneus](https://github-readme-stats.vercel.app/api/pin/?username=Cyaneus-Co&repo=Pegasus)](https://github.com/Cyaneus-Co)
+[![Project Universe](https://github-readme-stats.vercel.app/api/pin/?username=Project-Universe&repo=.github)](https://github.com/Project-Universe)
+[![Heptagram](https://github-readme-stats.vercel.app/api/pin/?username=Heptagram-Bot&repo=heptagram)](https://github.com/heptagram-bot/heptagram)
 
+# My stats
+![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-dogcoder&count_private=true&show_icons=true)
 
-<h2 align="center">My Socials:</h2>
-<p align='center'>
-  <a href="https://github.com/j-dogcoder" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/15201146/j-dogcoder" />
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://dribbble.com/Jdogcoder" />
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://dev.to/jdogcoder">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="j-dogcoder's DEV Community Profile" height="30" width="30">
-</a>
-</p>
-<p align='center'>
-    <a href="https://github.com/j-dogcoder" />
-    <img src="https://repobeats.axiom.co/api/embed/2ddf01cb23e328e406c78b5f0caef33097455073.svg" />        
-  </a>&nbsp;&nbsp;
-</p>
