@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DEV.to"
-          feed_list: "https://dev.to/feed/j-dogcoder"
+          feed_list: "https://dev.to/feed/jdogcoder"
           commit_message: "Update dev.to blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
