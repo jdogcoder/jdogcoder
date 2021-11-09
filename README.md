@@ -41,6 +41,9 @@
 
 # 📖 Latest Blog posts
 <!-- DEV.to:START -->
+- [Introducing... Project Universe!](https://dev.to/jdogcoder/introducing-project-universe-4cd)
+- [Cool Open Source Discord Bot list](https://dev.to/jdogcoder/cool-open-source-discord-bot-list-2cih)
+- [Open Source Discord Bot](https://dev.to/jdogcoder/open-source-discord-bot-2cal)
 <!-- DEV.to:END -->
 
 <h2 align="center">Projects I am working on:</h2>
