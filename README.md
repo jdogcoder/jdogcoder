@@ -10,9 +10,6 @@
 
 ✉️ You can contact me by opening an issue in this repo! I'll try to respond as soon as I can.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 # 📖 Latest Blog posts
 <!-- DEV.to:START -->
@@ -35,11 +32,6 @@
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb">
 <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean">
 </p>
-
-# Projects I am working on:
-[![Cyaneus](https://github-readme-stats.vercel.app/api/pin/?username=Cyaneus-Co&repo=Pegasus)](https://github.com/Cyaneus-Co)
-[![Project Universe](https://github-readme-stats.vercel.app/api/pin/?username=Project-Universe&repo=.github)](https://github.com/Project-Universe)
-[![Heptagram](https://github-readme-stats.vercel.app/api/pin/?username=Heptagram-Bot&repo=heptagram)](https://github.com/heptagram-bot/heptagram)
 
 # My stats
 ![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-dogcoder&count_private=true&show_icons=true)
