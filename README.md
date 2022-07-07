@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code">
 <img src="https://img.shields.io/badge/-Nodejs-333333?style=for-the-badge&logo=Node.js">
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript">
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb">
 <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean">
 </p>
