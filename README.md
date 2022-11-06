@@ -1,14 +1,16 @@
-# 👋 Hey there! I'm J-dogcoder
+# 👋 Hey there! I'm J-dogcoder, 
+## I use He/Him/His Pronouns [(why pronouns?)](https://www.glsen.org/sites/default/files/GLSEN%20Pronouns%20Resource.pdf)
 
+# About Me
 💡 I like working on projects with topics such as Ai, Machine learning, and App Development.
 
 🌱 I'd love to get deeper into Machine Learning and Ai. If you have any suggestions, Please open an issue on this repo.
  
 ✍️ In my free time, I enjoy hiking, camping, playing games with my family, and Snuggling with my cats.
 
-💬 Feel free to reach out to me for Video, Photo, and Audio Editing, Drone Photography, and limited coding projects.
+💬 Feel free to reach out to me for Video, Photo, and Audio Editing, Drone Photography, and coding projects.
 
-✉️ You can contact me by opening an issue in this repo! I'll try to respond as soon as I can.
+✉️ You can contact me by opening an issue in this repo, or emailing [jasper@jaspermayone.com](mailto:jasper@jaspermayone.com)! I'll try to respond as soon as I can.
 
 
 # 📖 Latest Blog posts
@@ -21,17 +23,11 @@
 
 <h2 align="center">🛠 &nbsp;Tech Stack:</h2>
 
-<p align="center"> 
-<img src="https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift">
-<img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code">
-<img src="https://img.shields.io/badge/-Nodejs-333333?style=for-the-badge&logo=Node.js">
-<img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript">
-<img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb">
-<img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean">
+
+<p align="center">
+  <a href="jaspermayone.com">
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,docker,express,git,github,githubactions,html,instagram,js,linux,md,mongodb,nodejs,ps,raspberrypi,redis,swift,twitter,ts,vercel,netlify,vscode&perline=13" />
+  </a>
 </p>
 
 # My stats
