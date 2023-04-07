@@ -10,22 +10,13 @@
 
 💬 Feel free to reach out to me for Video, Photo, and Audio Editing, Drone Photography, and coding projects.
 
-✉️ You can contact me by opening an issue in this repo, or emailing [jasper@jaspermayone.com](mailto:jasper@jaspermayone.com)! I'll try to respond as soon as I can.
-
-
-# 📖 Latest Blog posts
-<!-- DEV.to:START -->
-- [Introducing... Project Universe!](https://dev.to/jdogcoder/introducing-project-universe-4cd)
-- [Cool Open Source Discord Bot list](https://dev.to/jdogcoder/cool-open-source-discord-bot-list-2cih)
-- [Open Source Discord Bot](https://dev.to/jdogcoder/open-source-discord-bot-2cal)
-<!-- DEV.to:END -->
-
+✉️ You can contact me by opening an issue in this repo, or emailing [jasper.mayone@singlefeather.com](mailto:jasper.mayone@singlefeather.com)! I'll try to respond as soon as I can.
 
 <h2 align="center">🛠 &nbsp;Tech Stack:</h2>
 
 
 <p align="center">
-  <a href="jaspermayone.com">
+  <a href="singlefeather.com">
     <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,docker,express,git,github,githubactions,html,instagram,js,linux,md,mongodb,nodejs,ps,raspberrypi,redis,swift,twitter,ts,vercel,netlify,vscode&perline=13" />
   </a>
 </p>
