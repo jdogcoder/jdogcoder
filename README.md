@@ -22,5 +22,5 @@
 </p>
 
 # My stats
-![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-dogcoder&count_private=true&show_icons=true)
+![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdogcoder&count_private=true&show_icons=true)
 
