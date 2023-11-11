@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <a href="singlefeather.com">
+<!--   <a href="singlefeather.com"> -->
     <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,docker,express,git,github,githubactions,html,instagram,js,linux,md,mongodb,nodejs,ps,raspberrypi,redis,swift,twitter,ts,vercel,netlify,vscode&perline=13" />
   </a>
 </p>
